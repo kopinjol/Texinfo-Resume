@@ -149,8 +149,6 @@ Prospects and Applications,"} January 2012, Centro de ciensias de Benasque Pedro
 Pascula, Benasque, Spain. 
 @end multitable
 @sp 
-@sp
-@sp
 @b{References}
 @multitable @columnfractions .33 .33 .33
 @item Prof. Serdar Ogut@* Department of Physics@* University of Illinois at
@@ -159,5 +157,11 @@ University of Illinois at Chicago@* Phone (312) 996-6064@* rfklie@@uic.edu @tab 
 Vanderbilt University and@* Oak Rodge National Laboratory@* Phone: (312)
 933-2350@* juan.idrobo@@vanderbilt.edu 
 @end multitable
+@tex
+\mbox{}
+\vfill
+\hrule
+@end tex
+
 
 @bye
