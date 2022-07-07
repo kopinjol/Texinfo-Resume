@@ -1,4 +1,4 @@
-\input tikz
+%\input tikz
 \input texinfo
 
 @c @tex
@@ -33,7 +33,7 @@ functional theory}, its time dependent extensions and @emph{many-body
 perturbation} methods @tab @bullet{} Debugging and analyzing massively parallel code
 running in the exascale and
 writing code in @emph{Fortran 90}, @emph{Fortran 77}, @emph{C} and @emph{C++}
-employing various numerical methods. 
+employing various numerical methods. Maintaining and building HPC clusters.
 
 @end multitable
 @c @end cartouche
@@ -103,6 +103,10 @@ energetics of @math{Fe-xN} incorporated into carbon nanotubes and graphene using
 @sp
 @b {Publications}
 @itemize @bullet
+@item @i{"Benchmarking the GW-Approximation and Bethe-Salpeter Equation for
+Groups IB and IIB Atoms and Monoxides,"} Linda Hung, Fabien Bruneval, Kopinjol
+Baishya, Serdar Ogut. Journal of Chemical Theory and Compiutation, @b{13},
+5 (2017)
 @item @i{"A First Principles Real Space study of Electronic and Optical
 excitations in Rutile @math{TiO@sub{2}} Nanocrystals,"} Linda Hung, Kopinjol
 Baishya, Serdar Ogut, Phys. Rev. B @b{90}, 16524 (2014)
@@ -118,7 +122,42 @@ Koblar A. Jackson and Julius Jelinek, Phys. Rev. B @b{78}, 075439 (2008)
 @item @i{"Brownian Motion: Theory and Experiment, A Classroom Measurement of the
 Diffusion Coefficient,"} Resonance, 8, 3 (2003) 
 @end itemize
-
-
+@sp
+@b{Employment}
+@multitable @columnfractions .2 .8 
+@item 2015-2022 @tab @b{Assistant Professor,} Handique Girls' College,
+Guwahati, Assam.@* Teaching Higher-Secondary and Undergraduate Classes.
+@item 2013-2014 @tab @b{Post Doctoral Fellow} Case Western Reserve University, Cleveland OH. Working on
+research projects on Perovskites and defects in solids using Liear Muffin-Tin
+Orbital Method.
+@item 2007-2013 @tab  @b{Research Assistant,} University of Illinoise at
+Chicago, IL@* Working on research projects mentioned above.
+@item @i{Summer} 2007 @tab @b{Research Assistant,} Argonne National Laboratory,
+Argonne, IL
+@sp
+@item 2005-2013 @tab @b{Teaching Assistant in Physics,} University of Illinois
+at Chicago, IL@* Assisted and instructed students in classroom and laboratory
+setting, graded lab reports, exams and homework, tutored undergraduate students.
+@end multitable
+@sp
+@b{Professional Memberships and Workshops/Schools}
+@multitable @columnfractions .2 .8
+@item 2009-2013 @tab American Physical Society, member.
+@sp
+@item 2011 @tab @i{"@math{5@sup{th}}Time Dependent Density Functional Theory:
+Prospects and Applications,"} January 2012, Centro de ciensias de Benasque Pedro
+Pascula, Benasque, Spain. 
+@end multitable
+@sp 
+@sp
+@sp
+@b{References}
+@multitable @columnfractions .33 .33 .33
+@item Prof. Serdar Ogut@* Department of Physics@* University of Illinois at
+Chicago@* Phone: (312) 413-2786@* ogut@@uic.edu @tab Robert F. Klie@* Department of Physics@*
+University of Illinois at Chicago@* Phone (312) 996-6064@* rfklie@@uic.edu @tab Juan C. Idrobo@*
+Vanderbilt University and@* Oak Rodge National Laboratory@* Phone: (312)
+933-2350@* juan.idrobo@@vanderbilt.edu 
+@end multitable
 
 @bye
