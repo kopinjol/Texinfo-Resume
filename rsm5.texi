@@ -1,0 +1,197 @@
+%\input tikz
+%@c@tex
+%\mbox{beginning}
+%@c@end tex
+
+\input texinfo
+@c@tex
+@c\mbox{beginning}
+@c@end tex
+@setfilename rsm5.texi
+@settitle Kopinjol Baishya's Resume
+
+@c @tex
+@c @input tikz.tex
+@c @end tex
+@fonttextsize 10
+@cartouche 
+@center @b {R@'esum@'e}
+@center Kopinjol Baishya
+@center Deptt. of Physics,
+@center Handique Girls' College,
+@center Guwahati, Assam
+@center India.
+@center Postal Code: 781001
+@center Phone: 91-8136088468
+@center email: kopinjol@@gmail.com
+@center webpage: kopinjol.github.io
+@end cartouche
+@c @image{PHOTO,6cm,8cm,, .jpg}
+
+@everyfooting @| @thispage @|  @sc{Kopinjol Baishya}
+
+
+
+@c @cartouche
+@c @noindent @b {Research Expertise}
+@b {Research Expertise}
+
+@multitable @columnfractions .5 .5 
+@item  @bullet{} Determining structural, electronic and optical properties of clusters and
+surfaces using @emph{first-principles} techniques based on @emph{density
+functional theory}, its time dependent extensions and @emph{many-body
+perturbation} methods @tab @bullet{} Debugging and analyzing massively parallel code
+running in the exascale and
+writing code in @emph{Fortran 90}, @emph{Fortran 77}, @emph{C}, @emph{awk} and @emph{Python}
+employing various numerical methods. Maintaining and building HPC clusters.
+
+@end multitable
+@sp
+@center @b {Thesis Title:} First Principles Studies of Electronic and Optical@*
+@center           Excitations in Noble Metal and Titania Clusters 
+@sp
+@sp
+@multitable @columnfractions  .3  .7
+@item @b{Work Experience (Coding):} @tab Python3 (two years), Machine Language (one and half years).
+@end multitable
+@sp
+@sp
+@sp
+
+
+
+@c @end cartouche
+@sp 
+@c @noindent @b {Education}
+@b {Education}
+
+@multitable @columnfractions .2 .8 
+@item 2005-2013 @tab @b {Ph.D. in Physics}@*University of Illinois at Chicago,
+Chicago IL
+@sp
+@item 2004 @tab Joint CSIR-UGC National Eligibility Test (NET)
+@sp
+@item 2001-2003 @tab @b{M.Sc. in Physics (@i{First Class with 67.0@% of
+marks})}@*
+St. Stephen's College, University of Delhi, Delhi, India
+@sp
+@item 1998-2001 @tab @b{B.Sc. in Physics (@i{First Class with 69.3@% of
+marks})}@* St Stephen's College, University of Delhi, India
+@sp
+@item 1998 @tab @b{Higher Secondary Examination (science) (@i{First Divison with
+79.4@% of marks})}@*Darrang College, Tezpur, ASSAM, INDIA
+@sp
+@item 1996 @tab @b{High School Leaving Certificate Examination (@i{First Divison
+with 82.9@% of marks})} Tezpur Government Higher Secondary School,@*
+ASSAM, INDIA 
+@end multitable
+@sp
+@tex
+\hrule
+@end tex
+@sp
+@c @noindent @b {Research Experience}
+@b {Research Experience}  
+@multitable @columnfractions .2 .8
+@item 2010-2013 @tab @b{Optical properties of nano-systems using @i{many-body
+theories}, UIC}@* Studies of optical properties of nano-systems including
+@math{Ti0@sub{2}} nano-crystals, organic molecules for dye sensitized solar
+cells and transition metal atoms and ions.
+@item 2009-2010 @tab @b{Optical properties of Cu clusters, UIC}@* Studies of
+optical properties of small to medium sized Cu clusters using @i{Time Dependent
+Density Functional Theory} and @i{GWBSE theory}.  
+@item 2007-2009 @tab @b{Optical properties of Ag clusters, UIC}@* Investigation
+of Optical properties of medium sized Ag clusters by @i{Time Dependent Density
+Functional Theory} and comparison with experiments.
+@item 2007-2007@* Summer @tab @b{Ctalytic @math{Fe-xN} sites on carbon
+nanotubes, Argonne National Laboratory,@/ IL} Investigation of the structure and
+energetics of @math{Fe-xN} incorporated into carbon nanotubes and graphene using
+@i{FirstPrinciples} calculations.
+
+@end multitable
+@sp
+
+@c @tex
+@c \mbox{}
+@c \vfill
+@c \hrule
+@c \it Kopinjol Baishya \rm
+@c @end tex
+@c @tex
+@c \begin{tikzpicture}
+@c        \draw[line cap=rect] (0,0) -- (\linewidth-\pgflinewidth,0);
+@c \end{tikzpicture}
+@c @end tex
+
+
+@sp
+@b {Publications}
+@itemize @bullet
+@item @i{"Benchmarking the GW-Approximation and Bethe-Salpeter Equation for
+Groups IB and IIB Atoms and Monoxides,"} Linda Hung, Fabien Bruneval, Kopinjol
+Baishya, Serdar Ogut. Journal of Chemical Theory and Compiutation, @b{13},
+5 (2017)
+@item @i{"A First Principles Real Space study of Electronic and Optical
+excitations in Rutile @math{TiO@sub{2}} Nanocrystals,"} Linda Hung, Kopinjol
+Baishya, Serdar Ogut, Phys. Rev. B @b{90}, 16524 (2014)
+@item @i{"First principles absorption spectra of @math{Cu@sub{n}} @math{(n =
+2-20)} clusters,"} Kopinjol Baishya, Juan C. Idrobo, Serdar Ogut, Mingli Yang,
+Koblar A. Jackson and Julius Jelinek, Phys. Rev. B @b{21629}, 245402 (2011)
+@item @i{"Catalytic Fe-xN sites in Carbon Nanotubes,"} Alexey Titov, Peter
+Zapol, Petr Kral, Di-Jia Liu, Hakim Iddir, Kopinjol Baishya, and Larry A.
+Curtiss, Journal of Physical Chemistry C, @b{113}, 52 (2009)
+@item @i{"Optical Absorption Spectra of intermediate-sized Ag clusters from
+First Principles,"} Kopinjol Baishya, Juan C. Idrobo, Serdar Ogut, Mingli Yang,
+Koblar A. Jackson and Julius Jelinek, Phys. Rev. B @b{78}, 075439 (2008)
+@item @i{"Brownian Motion: Theory and Experiment, A Classroom Measurement of the
+Diffusion Coefficient,"} Resonance, 8, 3 (2003) 
+@end itemize
+@sp
+@b{Employment}
+@multitable @columnfractions .2 .8 
+@item 2015-2022 @tab @b{Assistant Professor,} Handique Girls' College,
+Guwahati, Assam.@* Teaching Higher-Secondary and Undergraduate Classes.
+@item 2013-2014 @tab @b{Post Doctoral Fellow} Case Western Reserve University, Cleveland OH. Working on
+research projects on Perovskites and defects in solids using Liear Muffin-Tin
+Orbital Method.
+@item 2007-2013 @tab  @b{Research Assistant,} University of Illinoise at
+Chicago, IL@* Working on research projects mentioned above.
+@item @i{Summer} 2007 @tab @b{Research Assistant,} Argonne National Laboratory,
+Argonne, IL
+@sp
+@item 2005-2013 @tab @b{Teaching Assistant in Physics,} University of Illinois
+at Chicago, IL@* Assisted and instructed students in classroom and laboratory
+setting, graded lab reports, exams and homework, tutored undergraduate students.
+@end multitable
+@sp
+@b{Professional Memberships and Workshops/Schools}
+@multitable @columnfractions .2 .8
+@item 2009-2013 @tab American Physical Society, member.
+@sp
+@item 2011 @tab @i{"@math{5@sup{th}}Time Dependent Density Functional Theory:
+Prospects and Applications,"} January 2012, Centro de ciensias de Benasque Pedro
+Pascula, Benasque, Spain. 
+@end multitable
+@sp
+@sp
+@sp
+
+@b{References}
+@multitable @columnfractions .33 .33 .33
+@item Prof. Serdar Ogut@* Department of Physics@* University of Illinois at
+Chicago@* Phone: (312) 413-2786@* ogut@@uic.edu @tab Robert F. Klie@* Department of Physics@*
+University of Illinois at Chicago@* Phone (312) 996-6064@* rfklie@@uic.edu @tab Juan C. Idrobo@*
+Vanderbilt University and@* Oak Rodge National Laboratory@* Phone: (312)
+933-2350@* juan.idrobo@@vanderbilt.edu 
+@end multitable
+
+@tex
+\mbox{ \vfill \hrule}
+%\mbox{end}
+@end tex
+
+
+@bye
+
+%\mbox{end}
+%\bye
